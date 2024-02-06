@@ -1,0 +1,30 @@
+C++ Lesson 3
+
+The CPU has three main components: the arithmetic and logical Unit, the Register, and the Control Unit.
+
+The computer also contains RAM or primary memory/storage that sends the input, which is binary code/machine language (0s and 1s), into the CPY. The RAM cannot store the data without power.
+
+The arithmetic and logical unit - is responsible for the processing of the input data. 
+
+Control unit -  is responsible for controlling the CPU and communicating with the rest of the motherboard.
+
+The smallest measure of information in computers is the Bit.
+
+Information measures in computer:
+
+1 bit - > 0 or 1
+8 bit - > 1 Byte
+1024 Bytes - > 1 MegaByte (MB)
+1024 MB - > GigaByte (GB)
+1024 GB - > 1 TeraByte (TB)
+1024 TB - > 1 PetaByte (PB)
+1024 PB - > 1 ExaByte (EB) 
+
+Ram is usually from 8 to ~ 128 GB.
+
+The CPU will fetch the data (a few MB) from the RAM and cache is in the Register unit.
+
+The secondary storage are HDD, SSD…
+
+
+In modern CPU’s the arithmetic and logical unit will have different cors. This allows you to execute the calculations/code simultaneously.
